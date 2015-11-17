@@ -51,8 +51,6 @@ ul {
 	border-bottom: 1px solid;
 }
 .colonne {
-	position: relative;
-	top:10px;
 	display: inline-block;
 	vertical-align: top;
 	width: 300px;
