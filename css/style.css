@@ -31,7 +31,7 @@ ul {
 /* Header */
 .photo-contenent {
 	display: inline-block;
-	float: left;
+	vertical-align: top;
 	width: 27%;
 }
 .photo {
@@ -39,7 +39,7 @@ ul {
 }
 .titre-contenent {
 	display: inline-block;
-	float: left;
+	vertical-align: top;
 	padding-left: 120px;
 	width: 55%;
 
@@ -54,7 +54,7 @@ ul {
 	position: relative;
 	top:10px;
 	display: inline-block;
-	float: left;
+	vertical-align: top;
 	width: 300px;
 	height: 560px;
 	padding: 10px;
@@ -68,12 +68,13 @@ ul {
 /* Footer */
 .google-map {
 	display: inline-block;
+	vertical-align: top;
 	margin-right: 30px;
 	width: 50%;
 }
 .info-contenent {
 	display: inline-block;
-	float: right;
+	vertical-align: top;
 	width: 45%;
 }
 .info-text {
